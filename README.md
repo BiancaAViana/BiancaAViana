@@ -2,7 +2,7 @@
 
 Meu nome é Bianca Viana, tenho 25 anos e sou apaixonada por tecnologia, video games e podcasts 😜.
 
-### Meus Objetivos ###
+### :books: Meus Objetivos ###
 * Meu foco total no momento é me aprimorar em front-end (HTML, CSS e JavaScript) e React.
 * Me interesso muito tembém pelo universo de UI e UX Design.
 
