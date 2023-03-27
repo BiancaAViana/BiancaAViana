@@ -1,6 +1,6 @@
 # Ola mundo!
 
-Meu nome é Bianca Viana, tenho 25 anos.
+Meu nome é Bianca Viana, tenho 25 anos.<br>
 Desenvolvo sistemas Front-End focados em criar um ambiente intuitivo e amigável para<br> 
 o usuário e sou apaixonada por tecnologia e por criar soluções que possam melhorar a vida das pessoas.
 
